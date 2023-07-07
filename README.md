@@ -1,6 +1,6 @@
-# Jamstack Website Tools
+# Static Website Tools
 
-This repository contains tools that may prove helpful when doing Jamstack (or similar) development.
+This repository contains tools that may prove helpful when doing [Jamstack](https://jamstack.org) (or similar) static site development.
 
 ## Tools
 

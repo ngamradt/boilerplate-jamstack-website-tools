@@ -1,0 +1,24 @@
+{
+  "name": "thumbnail",
+  "version": "0.1.0",
+  "description": "",
+  "type": "module",
+  "main": "src/build.js",
+  "scripts": {
+    "small-original": "node ./src/build.js 25",
+    "medium-original": "node ./src/build.js 33",
+    "large-original": "node ./src/build.js 50",
+    "small-jpeg": "node ./src/build.js 25 90",
+    "medium-jpeg": "node ./src/build.js 33 90",
+    "large-jpeg": "node ./src/build 50 90",
+    "full-jpeg": "node ./src/build 100 90"
+  },
+  "keywords": [],
+  "author": "Neal Gamradt",
+  "license": "MIT",
+  "devDependencies": {
+    "image-thumbnail": "^1.0.15"
+  },
+  "dependencies": {
+  }
+}

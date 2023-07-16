@@ -5,6 +5,6 @@
 3. If local development, push your branch up to GitHub.
 4. Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to the original repository.
 5. Submit an [issue](../../issues) with the details of the changes.
-6. The change will be reviewed and considered for merging back into the original project.
+6. The change will be reviewed and considered for merging back into the project.
 
-**NOTE:** There is no guarantee that your change will be approved and merged.
+**NOTE:** Though contributions are welcome, there is no guarantee that your change will be approved and merged.  That will depend on a number of factors, such as the quality of the submission and the functionality or changes that are being proposed.

@@ -3,6 +3,11 @@
 This repository contains tools that may prove helpful when doing [Jamstack](https://jamstack.org) (or similar) static site development.
 
 ---
+**NOTE**
+
+You can use this repository directly or use the "Use this template" button to create your own copy of this repository.  This will allow you to make modifications to the tools that are unique to your implementation.  Regardless of if you make a copy or use this repository directly, feel free to contribute back bug fixes or useful enhancements.  If you make your own copy, please check back occasionally and pull in any useful updates from the original.
+
+---
 
 ## Table of Contents
 
@@ -24,7 +29,7 @@ More details can be found in the [README.md](v1/thumbnail/README.md) for that to
 
 This repository is part of a small group of repositories that are used together in order to deploy a simple 11ty Jamstack website.  Here is the list of related repositories:
 
-1. [Jamstack Website boilerplate](https://github.com/ngamradt/boilerplate-jamstack-website): This repository is the core repository that stitches everything together.  It houses the following components:
+1. [Jamstack Website Core](https://github.com/ngamradt/boilerplate-jamstack-website): This repository is the core repository that stitches everything together.  It houses the following components:
     - The main AWS CodePipeline that will deploy all infrastructure and the Jamstack website itself.
     - All needed CloudFormation templates to create the required infrastructure.
     - The 11ty liquid templates for the structure of the website.

@@ -2,10 +2,8 @@
 
 This repository contains tools that may prove helpful when doing [Jamstack](https://jamstack.org) (or similar) static site development.
 
----
-**NOTE**
-
-You can use this repository directly or use the "Use this template" button to create your own copy of this repository.  This will allow you to make modifications to the tools that are unique to your implementation.  Regardless of if you make a copy or use this repository directly, feel free to contribute back bug fixes or useful enhancements.  If you make your own copy, please check back occasionally and pull in any useful updates from the original.
+> [!IMPORTANT]
+> You can use this repository directly or use the "Use this template" button to create your own copy of this repository.  This will allow you to make modifications to the tools that are unique to your implementation.  Regardless of if you make a copy or use this repository directly, feel free to contribute back bug fixes or useful enhancements.  If you make your own copy, please check back occasionally and pull in any useful updates from the original.
 
 ---
 
